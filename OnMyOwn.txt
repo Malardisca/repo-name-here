@@ -1,2 +1,2 @@
-string m1 = "Hello World";
+string m1 = "MilkShake";
 
